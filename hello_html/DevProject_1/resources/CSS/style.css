@@ -1,0 +1,15 @@
+header {
+    background-color: #5A7564;
+    color:white;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    padding: 20px 30px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
